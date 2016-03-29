@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         index++
         index %= self.messageArray.count
         //메세지 어레이의 속성중 하나인  count
-        
+        jfdksajdfl
     }
     //tell me button 을 누르면 실행되고 안의 기능이 수행된다.
 
